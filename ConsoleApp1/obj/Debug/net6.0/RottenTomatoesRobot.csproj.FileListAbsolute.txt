@@ -1,0 +1,17 @@
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RottenTomatoesRobot.exe
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RottenTomatoesRobot.deps.json
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RottenTomatoesRobot.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RottenTomatoesRobot.dll
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RottenTomatoesRobot.pdb
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.csproj.CopyComplete
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.dll
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\RottenTomatoesRobot.dll
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.pdb
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\RottenTomatoesRobot.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\RottenTomatoesRobot.dll

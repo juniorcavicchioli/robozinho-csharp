@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1Tk1epe6A9w5MFx0cudGspVa5a3/9xJfyna2GNJ83tifNwgJ2GCgx7kvmnelHN/IU80cJ0MqGSF/iUbDx0b3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logonrmlocal\\source\\repos\\ConsoleApp1\\ConsoleApp1\\RottenTomatoesRobot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
